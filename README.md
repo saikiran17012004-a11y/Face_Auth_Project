@@ -26,3 +26,19 @@ Face_Auth_Project/
 ├── templates/        # UI layer (index.html)
 ├── app.py            # The AI Engine & Web Server
 └── access_logs.csv   # Historical access record
+
+Step 1: Clone the Project
+Download the code from GitHub to your computer.
+git clone [https://github.com/YourUsername/Face_Auth_Project.git](https://github.com/YourUsername/Face_Auth_Project.git)
+
+Step 2: Create a Virtual Environment
+This creates a clean "workspace" for the project.
+python -m venv venv
+
+Step 3: Activate the Environment
+You must "enter" the workspace before installing tools.
+.\venv\Scripts\activate
+
+Step 4: Install the Requirements
+This installs all the AI and Web libraries at once.
+pip install -r requirements.txt
