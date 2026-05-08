@@ -1,0 +1,6 @@
+flask
+flask-socketio
+deepface
+opencv-python
+tf-keras
+numpy
